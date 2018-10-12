@@ -17,6 +17,6 @@ Fitur Yang ada :
 * masuk ke folder projek vcms ini, contoh : `cd c:\projek\vcms`
 * Ketik "composer update" untuk mendownload semua bahan yang diperlukan
 * ketik "php artisan key:generate"
-* Buka Artisan Laravel Console dan ketikan `install:vcms', akan ada langkah2, ikuti langkah2 tersebut.
+* Buka Artisan Laravel Console dan ketikan `php artisan install:vcms`, akan ada langkah2, ikuti langkah2 tersebut.
 * Isi data - data yang diminta
 * Setelah sukses anda dapat mengaksesnya. Template Default VIFA CMS membutuhkan koneksi internet untuk terhubung ke cdn Boostrap.
