@@ -14,8 +14,9 @@ Fitur Yang ada :
 * Home User : User dapat melihat Home dan halaman post seperti yang kita custom, update : Pagination Feature.
 
 # Installation
+* masuk ke folder projek vcms ini, contoh : `cd c:\projek\vcms`
 * Ketik "composer update" untuk mendownload semua bahan yang diperlukan
+* ketik "php artisan key:generate"
 * Buka Artisan Laravel Console dan ketikan `install:vcms', akan ada langkah2, ikuti langkah2 tersebut.
 * Isi data - data yang diminta
-* ketik juga "php artisan key:generate"
 * Setelah sukses anda dapat mengaksesnya. Template Default VIFA CMS membutuhkan koneksi internet untuk terhubung ke cdn Boostrap.
