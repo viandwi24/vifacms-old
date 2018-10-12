@@ -1,5 +1,5 @@
 # vifacms
-![cover](/public/assets/cover.png)
+![cover](/public/assets/cover.PNG)
 CMS With Simple and Mny Features Made With Laravel 5.7
 
 # Tentang
