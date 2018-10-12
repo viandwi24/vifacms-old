@@ -14,6 +14,7 @@ Fitur Yang ada :
 * Home User : User dapat melihat Home dan halaman post seperti yang kita custom, update : Pagination Feature.
 
 # Installation
+* Ketik "composer update" untuk mendownload semua bahan yang diperlukan
 * Buka Artisan Laravel Console dan ketikan `install:vcms'
 * Isi data - data yang diminta
 * Setelah sukses anda dapat mengaksesnya. Template Default VIFA CMS membutuhkan koneksi internet untuk terhubung ke cdn Boostrap.
